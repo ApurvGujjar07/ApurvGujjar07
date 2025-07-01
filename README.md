@@ -9,7 +9,8 @@
 <h3 align="center">🚀 DevOps Engineer | Automation Addict | AWS | Kubernetes | CI/CD Pipelines</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1186261/screenshots/4466250/devops-loop.gif" width="500" alt="DevOps Loop" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG50bzA1eWI3YTUxY3pjOGx5cWc1bzdkcWFhdTV6Zmc0cHZzbnJqYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif" width="500" alt="DevOps Hacker GIF" />
+
 </p>
 
 ---
