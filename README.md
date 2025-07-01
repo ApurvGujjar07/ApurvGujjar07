@@ -1,73 +1,68 @@
-<!-- Hacker-style DevOps Profile Header -->
+<!-- ⚡ Hacker-Style Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=👨‍💻+DevOps+Engineer+%7C+Cloud+Native+Mindset;🚀+Docker+%7C+Kubernetes+%7C+Jenkins+%7C+AWS;⚙️+Automate+Everything+%7C+Ship+Faster+%7C+Scale+Smarter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=👨‍💻+DevOps+Engineer+in+Action;⚙️+CI%2FCD+Pipelines+%7C+Containers+%7C+Cloud+Mastery;🔒+Automate+Everything+or+Die+Trying;🚀+Ship+Fast.+Monitor+Smart.+Scale+Infinite." alt="DevOps Typing Animation" />
 </p>
+
+---
 
 <h1 align="center">💻 Gujjar Apurv</h1>
-<h3 align="center">
-  <code>🚧 DevOps in Progress... Automating Real-World Workflows</code>
-</h3>
+<h3 align="center">🔧 DevOps Enthusiast | Cloud Native Explorer | Automator by Nature</h3>
 
-<!-- 👇 New DevOps-related GIF animation -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1186261/screenshots/4466250/devops-loop.gif" width="600" alt="devops-gif" />
+  <img src="https://cdn.dribbble.com/users/1186261/screenshots/4466250/devops-loop.gif" width="500" alt="devops-loop" />
 </p>
 
 ---
 
-### 🔍 Who Am I?
+### 👨‍🚀 About Me
 
-- 👨‍🎓 Final Year **Electronics and Communication Engineering** Student  
-- 🛠️ Building cloud-native solutions with DevOps toolchains  
-- 🐳 Containerizing everything with **Docker & K8s**  
-- 🧠 Automating using **Jenkins, GitHub Actions & Shell Scripts**  
-- 📈 Implementing monitoring stacks with **Prometheus + Grafana**  
-- ✍ Technical writer at: [opsverse.hashnode.dev](https://opsverse.hashnode.dev)  
-- 🌐 Let's connect on [LinkedIn](https://www.linkedin.com/in/apurv-gujjar)  
-- 📧 Email: [gujjarapurv181@gmail.com](mailto:gujjarapurv181@gmail.com)
+- 🎓 Final Year **Electronics & Communication Engineering** student  
+- ⚙️ Building end-to-end DevOps pipelines for real-world apps  
+- 🐳 Containerizing with **Docker**, orchestrating with **Kubernetes**, deploying on **AWS**  
+- 🔁 CI/CD automation with **Jenkins** & **GitHub Actions**  
+- 📈 Monitoring with **Prometheus + Grafana**  
+- ✍ Writing on: [opsverse.hashnode.dev](https://opsverse.hashnode.dev)  
+- 🤝 Open for **DevOps Internships / Full-Time Roles**  
+- 📫 Email: [gujjarapurv181@gmail.com](mailto:gujjarapurv181@gmail.com)  
+- 🌐 Connect: [LinkedIn](https://www.linkedin.com/in/apurv-gujjar)
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 My DevOps Arsenal
 
-#### 🧩 CI/CD, Cloud & Containerization
+#### 🔹 Cloud & Containers
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
 
-#### 🔄 Git, SCM & Automation
+#### 🔹 CI/CD & SCM
 <p>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
-#### 📊 Monitoring & Observability
+#### 🔹 Monitoring & Observability
 <p>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 </p>
 
-#### 💻 Programming
+#### 🔹 Scripting & Programming
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell%20Script-black?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-</p>
-
-#### 🧠 Tools & Productivity
-<p>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell-black?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
 ---
 
-### 📬 Let's Connect
+### ⚡ Hacker’s Motto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/apurv-gujjar)  
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode)](https://opsverse.hashnode.dev)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gujjarapurv181@gmail.com)
+```bash
+# Automate like a hacker, think like a cloud-native engineer.
+while true; do
+   build && test && deploy && monitor
+done
