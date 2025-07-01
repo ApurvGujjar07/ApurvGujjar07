@@ -21,12 +21,13 @@
 - 🐳 Containerizing everything with **Docker & K8s**  
 - 🧠 Automating using **Jenkins, GitHub Actions & Shell Scripts**  
 - 📈 Implementing monitoring stacks with **Prometheus + Grafana**  
-- ✍ Technical writer at [opsverse.hashnode.dev](https://opsverse.hashnode.dev)  
-- 🌐 Let's connect on [LinkedIn](https://www.linkedin.com/in/apurv-gujjar)
+- ✍ Technical writer at: [opsverse.hashnode.dev](https://opsverse.hashnode.dev)  
+- 🌐 Let's connect on [LinkedIn](https://www.linkedin.com/in/apurv-gujjar)  
+- 📧 Email: [gujjarapurv181@gmail.com](mailto:gujjarapurv181@gmail.com)
 
 ---
 
-### 🚀 DevOps Toolbox
+### 🧰 Tech Stack
 
 #### 🧩 CI/CD, Cloud & Containerization
 <p>
@@ -50,15 +51,28 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 </p>
 
+#### 💻 Programming
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell%20Script-black?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
+
+#### 🧠 Tools & Productivity
+<p>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
+</p>
+
 ---
 
-### 🛠 Featured Project: Robot Shop DevOps Deployment
+### 🚀 Featured Project
 
-> 👇 Real-world, full-scale **DevOps pipeline** for a microservice-based e-commerce app  
-> 🚀 *Docker → Jenkins CI/CD → AWS EKS → Prometheus + Grafana → Scaling + Monitoring*
+#### 🛍 Robot Shop - DevOps Project  
+> Full-stack microservice-based e-commerce app deployed with end-to-end DevOps tooling  
+> Dockerized → CI/CD → EKS deployment → Monitoring with Grafana & Prometheus
 
 🔗 Blog: [Read Full Blog](https://opsverse.hashnode.dev/robot-shop)  
-📦 Tools: Docker, Kubernetes (EKS), Jenkins, GitHub Actions, Prometheus, Grafana, AWS
+📦 Tools Used: Docker, Kubernetes (EKS), Jenkins, GitHub Actions, Prometheus, Grafana, AWS
 
 ---
 
