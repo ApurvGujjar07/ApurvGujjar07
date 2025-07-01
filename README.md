@@ -1,6 +1,7 @@
 <!-- 💻 Hacker Style Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=🚀+Gujjar+Apurv+Here!;⚙️+DevOps+Engineer+%7C+Cloud+Native+Enthusiast;🔁+CI%2FCD+%7C+Kubernetes+%7C+AWS+%7C+Automation;💡+Think+Cloud.+Build+Fast.+Deploy+Secure." alt="Typing Animation" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=🚀+Gujjar+Apurv+Here!;⚙️+DevOps+Engineer+%7C+AWS+%7C+K8s+%7C+CI%2FCD;🔁+Automate+Everything+or+Die+Trying" alt="Typing Animation" />
+
 </p>
 
 ---
