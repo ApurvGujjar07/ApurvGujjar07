@@ -1,51 +1,47 @@
-<!-- Profile Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=🚀+Hey%2C+I'm+Gujjar+Apurv" alt="Typing Animation" />
-</h1>
+<!-- Hacker-style DevOps Profile Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=👨‍💻+DevOps+Engineer+%7C+Cloud+Native+Mindset;🚀+Docker+%7C+Kubernetes+%7C+Jenkins+%7C+AWS;⚙️+Automate+Everything+%7C+Ship+Faster+%7C+Scale+Smarter" alt="Typing SVG" />
+</p>
 
+<h1 align="center">💻 Gujjar Apurv</h1>
 <h3 align="center">
-  🔧 DevOps Engineer | Cloud Enthusiast | AWS | Kubernetes | CI/CD
+  <code>🚧 DevOps in Progress... Automating Real-World Workflows</code>
 </h3>
 
 <p align="center">
-  <img src="https://assets-global.website-files.com/63209db5d3d7166c3779bece/63f8f4789bb2082c0a79f20c_build%20ship%20scale.gif" width="700" alt="build-ship-scale" />
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="500" alt="hacker-gif" />
 </p>
 
 ---
 
-<!-- Animated DevOps Quote -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Break+Things+Locally%2C+Scale+Globally.;Clicking+is+Temporary%2C+Automation+is+Forever.;DevOps+%7C+Kubernetes+%7C+Cloud+Warrior" alt="Animated Quote" />
-</p>
+### 🔍 Who Am I?
+
+- 👨‍🎓 Final Year **Electronics and Communication Engineering** Student  
+- 🛠️ Building cloud-native solutions with DevOps toolchains  
+- 🐳 Containerizing everything with **Docker & K8s**  
+- 🧠 Automating using **Jenkins, GitHub Actions & Shell Scripts**  
+- 📈 Implementing monitoring stacks with **Prometheus + Grafana**  
+- ✍ Technical writer at [opsverse.hashnode.dev](https://opsverse.hashnode.dev)  
+- 🌐 Let's connect on [LinkedIn](https://www.linkedin.com/in/apurv-gujjar)
 
 ---
 
-### 💻 About Me
+### 🚀 DevOps Toolbox
 
-- 🎓 Final Year **Electronics and Communication Engineering** Student  
-- ☁ Passionate about building scalable cloud-native DevOps pipelines  
-- 🔧 Actively working on *real-world projects* involving AWS, Docker, Jenkins & Kubernetes  
-- 📈 Skilled in implementing *CI/CD pipelines, K8s deployments, and observability stacks*  
-- ✍ Blogging at: [opsverse.hashnode.dev](https://opsverse.hashnode.dev)  
-- 💼 Eager to join *product-based or DevOps-driven companies* as a fresher  
-- 📧 Email: [gujjarapurv181@gmail.com](mailto:gujjarapurv181@gmail.com)  
-- 🌐 Let’s connect on [LinkedIn](https://www.linkedin.com/in/apurv-gujjar)
-
----
-
-### 🧰 Tech Stack
-
-#### ⚙ DevOps & Cloud
+#### 🧩 CI/CD, Cloud & Containerization
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+</p>
+
+#### 🔄 Git, SCM & Automation
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell%20Script-black?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
 #### 📊 Monitoring & Observability
@@ -54,42 +50,20 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 </p>
 
-#### 💻 Programming
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell%20Script-black?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-</p>
-
-#### 🧠 Tools & Productivity
-<p>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
-</p>
-
 ---
 
-### 🚀 Featured Project
+### 🛠 Featured Project: Robot Shop DevOps Deployment
 
-#### 🛍 Robot Shop - DevOps Project  
-> Full-stack microservice-based e-commerce app deployed with end-to-end DevOps tooling  
-> Dockerized → CI/CD → EKS deployment → Monitoring with Grafana & Prometheus
+> 👇 Real-world, full-scale **DevOps pipeline** for a microservice-based e-commerce app  
+> 🚀 *Docker → Jenkins CI/CD → AWS EKS → Prometheus + Grafana → Scaling + Monitoring*
 
 🔗 Blog: [Read Full Blog](https://opsverse.hashnode.dev/robot-shop)  
-📦 Tools Used: Docker, Kubernetes (EKS), Jenkins, GitHub Actions, Prometheus, Grafana, AWS
+📦 Tools: Docker, Kubernetes (EKS), Jenkins, GitHub Actions, Prometheus, Grafana, AWS
 
 ---
 
-### 📊 GitHub Stats
+### 📬 Let's Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurjar-vishal&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurjar-vishal&theme=tokyonight" height="180"/>
-</p>
-
----
-
-### 📬 Contact Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/apurv-gujjar)  
-[![Hashnode](https://img.shields.io/badge/Blog-Hashnode-blue?style=for-the-badge&logo=hashnode)](https://opsverse.hashnode.dev)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gujjarapurv181@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/apurv-gujjar)  
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode)](https://opsverse.hashnode.dev)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gujjarapurv181@gmail.com)
