@@ -8,8 +8,9 @@
   <code>🚧 DevOps in Progress... Automating Real-World Workflows</code>
 </h3>
 
+<!-- 👇 New DevOps-related GIF animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="500" alt="hacker-gif" />
+  <img src="https://cdn.dribbble.com/users/1186261/screenshots/4466250/devops-loop.gif" width="600" alt="devops-gif" />
 </p>
 
 ---
@@ -62,17 +63,6 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
 </p>
-
----
-
-### 🚀 Featured Project
-
-#### 🛍 Robot Shop - DevOps Project  
-> Full-stack microservice-based e-commerce app deployed with end-to-end DevOps tooling  
-> Dockerized → CI/CD → EKS deployment → Monitoring with Grafana & Prometheus
-
-🔗 Blog: [Read Full Blog](https://opsverse.hashnode.dev/robot-shop)  
-📦 Tools Used: Docker, Kubernetes (EKS), Jenkins, GitHub Actions, Prometheus, Grafana, AWS
 
 ---
 
